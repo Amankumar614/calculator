@@ -1,10 +1,10 @@
-# flutter_application_1
+# Flutter Calculator App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+By this project we able to do arithmetical operations between 2 numbers
 
 A few resources to get you started if this is your first Flutter project:
 
